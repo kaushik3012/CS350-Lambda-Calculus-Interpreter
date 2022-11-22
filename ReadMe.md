@@ -26,8 +26,7 @@ Normal form of (\x.\y.x): <br>
 \> "(\\x.\\y.x)(\\x.x)" <br>
 Free Variables in (\x.\y.x)(\x.x): []<br>
 Normal form of (\x.\y.x)(\x.x): <br>
-\b.\x.x
-<br>
+\b.\x.x <br>
 \> "(\\x.x)a"<br>
 Free Variables in (\x.x)a: ["a"] <br>
 Normal form of (\x.x)a: <br>
